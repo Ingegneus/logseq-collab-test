@@ -1,0 +1,164 @@
+{:blocks (
+{:block/created-at 1729864296291
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "ee579ab0-92d6-11ef-bb6e-3d23ff0455c9"
+:fontWeight 400
+:noFill true
+:point [272 386.74]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 57.39]
+:bindingId nil}
+:end 
+{:id "end"
+:canBind true
+:point [356 0]
+:bindingId "04bfb031-92d7-11ef-bb6e-3d23ff0455c9"}}
+:decorations 
+{:end "arrow"}
+:parentId "671b9fdc-b179-457f-af82-576f11a89de0"
+:nonce 1729863729618
+:italic false}}
+:block/updated-at 1729864296291} 
+{:block/created-at 1729864296292
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [144 248]
+:strokeType "dashed"
+:strokeWidth 2
+:opacity 1
+:label "types"
+:id "f851c5e0-92d6-11ef-bb6e-3d23ff0455c9"
+:fontWeight 400
+:noFill false
+:point [632 240]
+:fontSize 20
+:parentId "671b9fdc-b179-457f-af82-576f11a89de0"
+:nonce 1729863746624
+:italic false}}
+:block/updated-at 1729864296292} 
+{:block/created-at 1729864296292
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 2
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [144 248]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "nope"
+:id "fdcfded0-92d6-11ef-bb6e-3d23ff0455c9"
+:fontWeight 400
+:noFill false
+:point [-112 -72]
+:fontSize 20
+:parentId "671b9fdc-b179-457f-af82-576f11a89de0"
+:nonce 1729863755411
+:italic false}}
+:block/updated-at 1729864296292} 
+{:block/created-at 1729864296292
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "fdcfded1-92d6-11ef-bb6e-3d23ff0455c9"
+:fontWeight 400
+:noFill true
+:point [36 83.87]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [595 249.52]
+:bindingId "fdcfded2-92d6-11ef-bb6e-3d23ff0455c9"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "fdd005e0-92d6-11ef-bb6e-3d23ff0455c9"}}
+:decorations 
+{:end "arrow"}
+:parentId "671b9fdc-b179-457f-af82-576f11a89de0"
+:nonce 1729863755377
+:italic false}}
+:block/updated-at 1729864296292})
+:pages (
+{:block/uuid #uuid "671b9fdc-b179-457f-af82-576f11a89de0"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "671b9fdc-b179-457f-af82-576f11a89de0"
+:name "mood board"
+:bindings 
+{:fdcfded2-92d6-11ef-bb6e-3d23ff0455c9 
+{:id "fdcfded2-92d6-11ef-bb6e-3d23ff0455c9"
+:type "line"
+:fromId "fdcfded1-92d6-11ef-bb6e-3d23ff0455c9"
+:toId "f851c5e0-92d6-11ef-bb6e-3d23ff0455c9"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:fdd005e0-92d6-11ef-bb6e-3d23ff0455c9 
+{:id "fdd005e0-92d6-11ef-bb6e-3d23ff0455c9"
+:type "line"
+:fromId "fdcfded1-92d6-11ef-bb6e-3d23ff0455c9"
+:toId "fdcfded0-92d6-11ef-bb6e-3d23ff0455c9"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:04bfb031-92d7-11ef-bb6e-3d23ff0455c9 
+{:id "04bfb031-92d7-11ef-bb6e-3d23ff0455c9"
+:type "line"
+:fromId "ee579ab0-92d6-11ef-bb6e-3d23ff0455c9"
+:toId "f851c5e0-92d6-11ef-bb6e-3d23ff0455c9"
+:handleId "end"
+:point [0.51 0.54]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("ee579ab0-92d6-11ef-bb6e-3d23ff0455c9" "f851c5e0-92d6-11ef-bb6e-3d23ff0455c9" "fdcfded0-92d6-11ef-bb6e-3d23ff0455c9" "fdcfded1-92d6-11ef-bb6e-3d23ff0455c9")}}
+:block/journal? false
+:block/updated-at 1729864296291
+:block/created-at 1729863644356
+:block/type "whiteboard"
+:block/name "mood board"
+:block/original-name "mood board"})}
